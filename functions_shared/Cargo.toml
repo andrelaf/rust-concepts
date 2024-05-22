@@ -1,6 +1,6 @@
 [package]
 name = "functions_shared"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["André Lara Amorim de Freitas <andre.amorim.si@gmail.com>"]
 description = "Test deply crates.io"
