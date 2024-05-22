@@ -1,0 +1,13 @@
+[package]
+name = "functions_shared"
+version = "0.1.0"
+edition = "2021"
+authors = ["André Lara Amorim de Freitas <andre.amorim.si@gmail.com>"]
+descriptions = "Test deply crates.io"
+homepage = "https://..."
+repository = "https://..."
+documentation = "https://.."
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
